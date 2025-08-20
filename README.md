@@ -4,7 +4,7 @@ On the spot you need to write a **`Typescript`** function. This is the repo you 
 
 ### Pre-req:
 ```bash
-NodeJS  v22.18.0
+Node >= v22.18.0
 ```
 
 ### Installation
