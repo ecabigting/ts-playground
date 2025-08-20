@@ -1,6 +1,6 @@
 # ts-playground
 
-On the spot you need to write a [!typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) function. This is the repo you need!
+On the spot you need to write a ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) function. This is the repo you need!
 
 ### Pre-req:
 ```bash
