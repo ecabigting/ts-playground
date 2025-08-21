@@ -1,6 +1,6 @@
 # ts-playground ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-On the spot you need to write a **`Typescript`** function. This is the repo you need!
+On the spot you need to write a **`Typescript`** function. For a job interview. Or you just want to see how something works. Clone this repo and start coding!
 
 ### Pre-req:
 ```bash
