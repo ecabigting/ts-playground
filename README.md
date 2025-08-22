@@ -11,7 +11,11 @@ Node >= v22.18.0
 
 ```bash
 $ git clone git@github.com:ecabigting/ts-playground.git
+```
+Then do 
+```bash
 $ cd ts-playground
+$ npm install
 ```
 
 Make a new `.ts` file or edit `index.ts` on root. You are good to go!
